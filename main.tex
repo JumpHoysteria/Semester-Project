@@ -39,6 +39,7 @@
 \usepackage{blindtext}
 \usepackage{chemfig}
 \usepackage{graphicx}
+\usepackage{float}
 \usepackage{multicol}
 \usepackage[colorinlistoftodos]{todonotes}
 \usepackage{setspace}
@@ -133,7 +134,6 @@ TODO: Introduction
 \input{./Methods.tex}
 \input{./Results_Discussion.tex}
 \input{./Outlook.tex}
-\input{./Blindtext.tex}
 
 \section{Some \LaTeX{} Examples}
 \label{sec:examples}
@@ -154,13 +154,13 @@ Comments can be added to the margins of the document using the \todo{Here's a co
 Use the table and tabular commands for basic tables --- see Table~\ref{tab:widgets}, for example. You can upload a figure (JPEG, PNG or PDF) using the files menu. To include it in your document, use the includegraphics command as in the code for Figure~\ref{fig:frog} below.
 
 % Commands to include a figure:
-\begin{figure}
+\begin{figure}[h!]
 \centering
 \includegraphics[width=0.5\textwidth]{frog.jpg}
 \caption{\label{fig:frog}This is a figure caption.}
 \end{figure}
 
-\begin{table}
+\begin{table}[h!]
 \centering
 \begin{tabular}{l|r}
 Item & Quantity \\\hline
@@ -191,6 +191,46 @@ You can make lists with automatic numbering \dots
 \item and like this.
 \end{itemize}
 
-We hope you find write\LaTeX\ useful, and please let us know if you have any feedback using the help menu above.
+We hope you find write\LaTeX\ useful, and please let us know if you have any feedback 
+using the help menu above.
+\clearpage
+\phantomsection
+\appendix
+\section{\\Figures}
+
+
+\begin{figure}[hb]
+\centerline{\includegraphics[scale=0.2]{Meas_Prep_1.PNG}}
+\caption{\label{fig:MeasPrep1}That shit cray.}
+\end{figure}
+
+\begin{figure}[hb]
+\centerline{\includegraphics[scale=0.2]{Meas_Prep_2.PNG}}
+\caption{\label{fig:MeasPrep2}That shit cray.}
+\end{figure}
+
+\begin{figure}[hb]
+\centerline{\includegraphics[scale=0.2]{Meas_Prep_3.PNG}}
+\caption{\label{fig:MeasPrep3}That shit cray.}
+\end{figure}
+
+
+\begin{figure}[hb]
+    \centering
+    \includegraphics[width=.4\textwidth]{Meas_Prep_1.PNG}
+    \includegraphics[width=.4\textwidth]{Meas_Prep_1.PNG}
+    \includegraphics[width=.4\textwidth]{Meas_Prep_1.PNG}
+    \caption{Caption}
+    \label{fig:my_label}
+\end{figure}
+
+
+
+
+\section{\\Cats \& Dogs}
+% the \\ insures the section title is centered below the phrase: Appendix B
+
+Text of Appendix B is Here
 
 \end{document}
+
