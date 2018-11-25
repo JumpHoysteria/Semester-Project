@@ -41,9 +41,11 @@
 \usepackage{graphicx}
 \usepackage{float}
 \usepackage{multicol}
+\usepackage{subfig}
+
+\usepackage{caption}
 \usepackage[colorinlistoftodos]{todonotes}
 \usepackage{setspace}
-\renewcommand{\contentsname}{Come one!}
 \renewcommand{\contentsname}{Table of Content}
 
 \begin{document}
@@ -224,7 +226,14 @@ using the help menu above.
     \label{fig:my_label}
 \end{figure}
 
-
+\begin{figure*}[t!]
+$\begin{array}{rl}
+    \includegraphics[width=0.7\textwidth]{Meas_Prep_1.PNG} &
+    \includegraphics[width=0.5\textwidth]{Meas_Prep_2.PNG}\\
+    \multicolumn{2}{c}{\includegraphics[width=0.5\textwidth]{Meas_Prep_3.PNG}}
+\end{array}$
+\caption[My beautiful figure.]{\label{fig:label}My beautiful figure}
+\end{figure*}
 
 
 \section{\\Cats \& Dogs}
