@@ -39,6 +39,8 @@
 \usepackage{blindtext}
 \usepackage{chemfig}
 \usepackage{graphicx}
+\usepackage{xcolor}
+\usepackage[toc,page]{appendix}
 \usepackage{float}
 \usepackage{multicol}
 \usepackage{subfig}
@@ -46,6 +48,11 @@
 \usepackage{caption}
 \usepackage[colorinlistoftodos]{todonotes}
 \usepackage{setspace}
+\newcommand\myworries[1]{\textcolor{red}{#1}}
+
+%\renewcommand\myworries[1]{}
+%\myworries{Uncomment when FINISHED}!!
+
 \renewcommand{\contentsname}{Table of Content}
 
 \begin{document}
@@ -91,7 +98,7 @@ Alexandre \textsc{Meier}\\
 \begin{flushright} \large
 \emph{Supervisors:} \\
 Aline \textsc{Renz}\\
-Dr. Jaehong \textsc{Lee}\\[0.1cm]
+Dr. Jaehong \textsc{Lee}\\
 Prof. Dr. Janos \textsc{Vörös}
 \end{flushright}
 \end{minipage}\\[2cm]
@@ -128,9 +135,11 @@ TODO: Enter Abstract.
 
 \newpage
 
+\input{./Theory.tex}
+
 \section{Introduction}
 
-TODO: Introduction 
+\myworries{TODO: INTRODUCTION!}
 
 \input{./Theory.tex}
 \input{./Methods.tex}
@@ -139,24 +148,11 @@ TODO: Introduction
 
 \clearpage
 \phantomsection
-\appendix
-\section{\\Figures}
 
+\input{./appendices.tex}
 
-\begin{figure}[hb]
-    \centering
-    \includegraphics[width=.4\textwidth]{./pic/Meas_Prep_1.PNG}
-    \includegraphics[width=.4\textwidth]{./pic/Meas_Prep_2.PNG}
-    \includegraphics[width=.4\textwidth]{./pic/Meas_Prep_3.PNG}
-    \caption{Preparation for Strain-Resistance-Measurement}
-    \label{fig:my_label}
-\end{figure}
-
-
-\section{\\Cats \& Dogs}
-% the \\ insures the section title is centered below the phrase: Appendix B
-
-Text of Appendix B is Here
+\bibliographystyle{plain}
+\bibliography{bibliography.bib}
 
 \end{document}
 
