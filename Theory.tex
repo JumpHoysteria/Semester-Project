@@ -2,8 +2,16 @@
 \label{sec:Theory}
 
 \subsection{Strain Sensing}
+Resistance $R$ of a conducting material is governed by the equation (\ref{eq:Resistance}), where $l$ is the length, $A$ the area of the crossection and $\rho$ the electric resistivity, which inherently depends on the conducting material.
 
+\begin{equation}
+\label{eq:Resistance}
+    R = \frac{l}{A}*\rho
+\end{equation}
 
+When applying transaxial strain, in most cases, a compression in transversal direction can be observed. The ration between those two forces is described by the material dependent Poisson's ratio, which in most cases ranges between 0 and 1. \cite{Gercek} In terms of conductivity-mediated strain sensing, this means, that the resulting decrease in $A = (A' -\Delta A)$ and the increase in length $l= (l' +\Delta l)$ leads to a measurable increase in resistance $R$ upon strain .
+
+\myworries{Add Schematic of Strain Sensing}
 
 \subsection{Polyurethane}
 
@@ -52,9 +60,11 @@ Gold(III) chloride trihydrate was therefore the reagent of choice. \myworries{Ch
 \subsection{Nucleation and Percolation}
 \label{subsec:Perc}
 
-\myworries{Eventually lead to conclusion along the lines of "Therefore weaker reduction agent should lead to more stable behaviour"}
+When non-polar singular atoms of metallic species are produced in polar liquid, they want to continually aggregate to atoms of the same species, since it's energetically favourable when compared to their existence in the singular atomic state. This leads to the formation of so called embryos. \cite{Goia} But embryos still mark a non-solid-state phase, since they are subject to a continuous dissociation-aggregation process. If the system allows for an advancement through enough available free energy, eventually the embryos will grow to become nuclei. Nuclei are physically stable and don't dissociate spontaneously anymore. As the name suggest, they act as a atomic 'seed' where newly produced atoms can adhere too instead of trying to become embryos themselves. In terms of redox-reaction, this means that weaker reduction agents should lead to less but bigger nanoparticles. For stronger ones, the opposite case applies. 
 
+To elucidate how this process is important to us, I have to introduce percolation. Percolation whose behaviour is governed by laws of Percolation Theory, describes the successful transmission of current through a indefinite, random path, where each edge (air, PUR) between two nodes (gold nanoparticles) carries a probability of conducting the current. We say that something percolates if the transmission is successful from one end to the other of our sample space. The very important point here is that the exact way through which the current is conducted is not known, we only the know the probabilites. Intuitively, it becomes clear, that bigger nanoparticles have fewer but bigger overlap with other nanoparticles. This might lead to smaller resistance. However, as soon as we apply strain, those fewer overlaps become a risk, since we have a decrease in both overlap size and number. With smaller nanoparticles the decrease in overlap size and number also applies upon strain, albeit the probability for new overlap is bigger, since there are more nanoparticles that could possibly interact.  \myworries{taken from Wikipedia, Percolation Theory.} 
 
+Taken those insights from nucleation and percolation together, should lead to one main insight: Namely, that stronger reduction agents, according to theoretical induction, should lead to better conductivity, when compared to stronger reduction agents.
 
 \subsection{Reduction agent}
 \label{subsec:RedAgent}
