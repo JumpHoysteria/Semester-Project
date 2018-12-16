@@ -4,31 +4,31 @@
 \contentsline {subsection}{\numberline {2.1}Strain Sensing}{4}{subsection.2.1}
 \contentsline {subsection}{\numberline {2.2}Polyurethane}{4}{subsection.2.2}
 \contentsline {subsection}{\numberline {2.3}Gold Salt}{5}{subsection.2.3}
-\contentsline {subsection}{\numberline {2.4}Reduction agent}{5}{subsection.2.4}
-\contentsline {subsection}{\numberline {2.5}Nucleation and Percolation}{6}{subsection.2.5}
+\contentsline {subsection}{\numberline {2.4}Reduction agent}{6}{subsection.2.4}
+\contentsline {subsection}{\numberline {2.5}Nucleation and Percolation}{7}{subsection.2.5}
 \contentsline {section}{\numberline {3}Methods}{8}{section.3}
 \contentsline {subsection}{\numberline {3.1}Manufacturing}{8}{subsection.3.1}
 \contentsline {subsubsection}{\numberline {3.1.1}Preparation of reagent}{8}{subsubsection.3.1.1}
-\contentsline {paragraph}{Gold solution}{8}{section*.2}
-\contentsline {paragraph}{Reduction agent solution}{8}{section*.3}
-\contentsline {subsubsection}{\numberline {3.1.2}Sample Fabrication}{8}{subsubsection.3.1.2}
-\contentsline {paragraph}{Initial Protocol}{9}{section*.4}
-\contentsline {paragraph}{Optimized Protocol}{9}{section*.5}
-\contentsline {subsection}{\numberline {3.2}Measurement}{10}{subsection.3.2}
-\contentsline {subsubsection}{\numberline {3.2.1}Preparation}{10}{subsubsection.3.2.1}
-\contentsline {subsubsection}{\numberline {3.2.2}Resistance Measurements}{11}{subsubsection.3.2.2}
-\contentsline {section}{\numberline {4}Results \& Discussion}{11}{section.4}
-\contentsline {subsection}{\numberline {4.1}Identification of reduction agent}{11}{subsection.4.1}
-\contentsline {paragraph}{NaBH4}{12}{section*.7}
-\contentsline {paragraph}{\ce {NaBH4}/\ce {NaOH}}{13}{section*.8}
-\contentsline {paragraph}{Hydroxylamine}{13}{section*.9}
-\contentsline {paragraph}{Ascorbic Acid}{13}{section*.10}
-\contentsline {paragraph}{Citric Acid}{13}{section*.11}
-\contentsline {paragraph}{Glucose}{14}{section*.12}
-\contentsline {subsection}{\numberline {4.2}Optimisation}{15}{subsection.4.2}
+\contentsline {paragraph}{Gold solution}{9}{section*.3}
+\contentsline {paragraph}{Reduction agent solution}{9}{section*.4}
+\contentsline {subsubsection}{\numberline {3.1.2}Sample Fabrication}{9}{subsubsection.3.1.2}
+\contentsline {paragraph}{Initial Protocol}{9}{section*.5}
+\contentsline {paragraph}{Optimized Protocol}{10}{section*.6}
+\contentsline {subsection}{\numberline {3.2}Measurement}{11}{subsection.3.2}
+\contentsline {subsubsection}{\numberline {3.2.1}Preparation}{11}{subsubsection.3.2.1}
+\contentsline {subsubsection}{\numberline {3.2.2}Resistance Measurements}{12}{subsubsection.3.2.2}
+\contentsline {section}{\numberline {4}Results \& Discussion}{12}{section.4}
+\contentsline {subsection}{\numberline {4.1}Identification of reduction agent}{12}{subsection.4.1}
+\contentsline {paragraph}{NaBH4}{13}{section*.8}
+\contentsline {paragraph}{\ce {NaBH4}/\ce {NaOH}}{14}{section*.9}
+\contentsline {paragraph}{Hydroxylamine}{14}{section*.10}
+\contentsline {paragraph}{Ascorbic Acid}{14}{section*.11}
+\contentsline {paragraph}{Citric Acid}{14}{section*.12}
+\contentsline {paragraph}{Glucose}{15}{section*.13}
+\contentsline {subsection}{\numberline {4.2}Optimisation}{16}{subsection.4.2}
 \contentsline {subsubsection}{\numberline {4.2.1}Variation of Gold Concentration}{16}{subsubsection.4.2.1}
-\contentsline {subsubsection}{\numberline {4.2.2}Variation of Reduction Agent}{16}{subsubsection.4.2.2}
-\contentsline {section}{\numberline {5}Outlook}{17}{section.5}
-\contentsline {section}{Appendices}{18}{section*.15}
-\contentsline {section}{\numberline {A}Figures}{18}{Appendix.1.A}
-\contentsline {section}{\numberline {B}Pictures}{18}{Appendix.1.B}
+\contentsline {subsubsection}{\numberline {4.2.2}Variation of Reduction Agent}{17}{subsubsection.4.2.2}
+\contentsline {section}{\numberline {5}Outlook}{18}{section.5}
+\contentsline {section}{Appendices}{19}{section*.16}
+\contentsline {section}{\numberline {A}Figures}{19}{Appendix.1.A}
+\contentsline {section}{\numberline {B}Pictures}{19}{Appendix.1.B}
