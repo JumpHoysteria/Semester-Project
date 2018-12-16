@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.12.16)  16 DEC 2018 16:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.12.16)  16 DEC 2018 21:45
 entering extended mode
 **./main.tex
 (main.tex
@@ -1005,11 +1005,7 @@ File: pgflibraryfadings.code.tex 2008/02/07 v3.0.1a (rcs-revision 1.3)
 ("C:\Users\Alex\AppData\Local\Programs\MiKTeX 2.9\tex\latex\setspace\setspace.s
 ty"
 Package: setspace 2011/12/19 v6.7a set line spacing
-) (main.aux
-
-LaTeX Warning: Label `fig:GoldConc' multiply defined.
-
-)
+) (main.aux)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
@@ -1026,7 +1022,8 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 34.
 LaTeX Font Info:    ... okay on input line 34.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 34.
 LaTeX Font Info:    ... okay on input line 34.
- ("C:\Users\Alex\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ucs\ucsencs.def"
+
+("C:\Users\Alex\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ucs\ucsencs.def"
 File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
 )
 
@@ -1127,15 +1124,24 @@ l.92 \newpage
 \tf@toc=\write5
 \openout5 = `main.toc'.
 
- [2] (Introduction.tex [3]) (Theory.tex
-<./pic/Polyurethane_mod.png, id=190, 487.8225pt x 193.22188pt>
-File: ./pic/Polyurethane_mod.png Graphic file (type png)
-<use ./pic/Polyurethane_mod.png>
-Package pdftex.def Info: ./pic/Polyurethane_mod.png  used on input line 24.
-(pdftex.def)             Requested size: 341.47342pt x 135.25438pt.
+ [2] (Introduction.tex) (Theory.tex
+Underfull \hbox (badness 10000) in paragraph at lines 2--1
+
+ []
+
+[3]
+<./pic/Polyurethane.png, id=190, 929.4725pt x 371.3875pt>
+File: ./pic/Polyurethane.png Graphic file (type png)
+<use ./pic/Polyurethane.png>
+Package pdftex.def Info: ./pic/Polyurethane.png  used on input line 24.
+(pdftex.def)             Requested size: 371.78242pt x 148.55235pt.
  [4]
-[5 <./pic/Polyurethane_mod.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 60--69
+Underfull \hbox (badness 10000) in paragraph at lines 29--31
+
+ []
+
+[5 <./pic/Polyurethane.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 61--70
 
  []
 
@@ -1186,7 +1192,7 @@ Overfull \hbox (7.77815pt too wide) in paragraph at lines 80--81
  []
 
 [10]
-<./pic/MethodsResMeasurement.PNG, id=263, 604.05675pt x 383.63326pt>
+<./pic/MethodsResMeasurement.PNG, id=262, 604.05675pt x 383.63326pt>
 File: ./pic/MethodsResMeasurement.PNG Graphic file (type png)
 <use ./pic/MethodsResMeasurement.PNG>
 Package pdftex.def Info: ./pic/MethodsResMeasurement.PNG  used on input line 13
@@ -1266,16 +1272,13 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 
 LaTeX Warning: There were undefined references.
 
-
-LaTeX Warning: There were multiply-defined labels.
-
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 111.
  ) 
 Here is how much of TeX's memory you used:
- 30314 strings out of 492970
- 583196 string characters out of 3127037
- 677447 words of memory out of 3000000
- 33655 multiletter control sequences out of 15000+200000
+ 30315 strings out of 492970
+ 583193 string characters out of 3127037
+ 677480 words of memory out of 3000000
+ 33656 multiletter control sequences out of 15000+200000
  541351 words of font info for 54 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  62i,11n,83p,1331b,912s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1294,7 +1297,7 @@ s/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Alex/AppData/Local/Programs/MiK
 TeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/Alex/AppData/Local/P
 rograms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/Alex/App
 Data/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti8.pfb>
-Output written on main.pdf (23 pages, 1546654 bytes).
+Output written on main.pdf (23 pages, 1525979 bytes).
 PDF statistics:
  421 PDF objects out of 1000 (max. 8388607)
  104 named destinations out of 1000 (max. 500000)
