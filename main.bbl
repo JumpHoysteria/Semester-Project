@@ -7,6 +7,13 @@
   textiles.
 \newblock {\em Advanced materials 22}, 45 (2010), 5178--5182.
 
+\bibitem{Daniel}
+{\sc Daniel, M.-C., and Astruc, D.}
+\newblock Gold nanoparticles: assembly, supramolecular chemistry,
+  quantum-size-related properties, and applications toward biology, catalysis,
+  and nanotechnology.
+\newblock {\em Chemical reviews 104}, 1 (2004), 293--346.
+
 \bibitem{MedicalAI}
 {\sc Dolgin, E.}
 \newblock The first frontier for medical ai is the pathology lab.
@@ -116,5 +123,16 @@
 \newblock Biomedical applications of biodegradable polymers.
 \newblock {\em Journal of polymer science Part B: polymer physics 49}, 12
   (2011), 832--864.
+
+\bibitem{Plasmon}
+{\sc Zheng, J., Zhang, C., and Dickson, R.~M.}
+\newblock Highly fluorescent, water-soluble, size-tunable gold quantum dots.
+\newblock {\em Physical Review Letters 93}, 7 (2004), 077402.
+
+\bibitem{Zhu}
+{\sc Zhu, Y., and Sun, Y.}
+\newblock The influence of polyelectrolyte charges of polyurethane membrane
+  surface on the growth of human endothelial cells.
+\newblock {\em Colloids and surfaces. B, Biointerfaces 36 1\/} (2004), 49--55.
 
 \end{thebibliography}
