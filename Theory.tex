@@ -9,9 +9,13 @@ Resistance $R$ of a conducting material is governed by the equation (\ref{eq:Res
     R = \frac{l}{A}*\rho
 \end{equation}
 
-When applying transaxial strain, in most cases, a compression in transversal direction can be observed. The ration between those two forces is described by the material dependent Poisson's ratio, which in most cases ranges between 0 and 1. \cite{Gercek} In terms of conductivity-mediated strain sensing, this means, that the resulting decrease in $A = (A' -\Delta A)$ and the increase in length $l= (l' +\Delta l)$ leads to a measurable increase in resistance $R$ upon strain. In resistance-mediated strain sensing we make use of this exact dynamic.
+When applying transaxial strain, in most cases, a compression in transversal direction can be observed. The ration between those two forces is described by the material dependent Poisson's ratio, which in most cases ranges between 0 and 1. \cite{Gercek} In terms of conductivity-mediated strain sensing, this means, that the resulting decrease in $A$ and the increase in length $l$ leads to a measurable increase in resistance $R$ upon strain, similarly to the schematics shown in figure \ref{fig:SchemStrSens}. In resistance-mediated strain sensing we make use of this exact dynamic.
 
-\myworries{Add Schematic of Strain Sensing}
+\begin{figure}[H]
+\centerline{\includegraphics[scale=0.4]{./pic/SchematicStrainSensing.PNG}}
+    \caption{Schematic of Strain Sensing}
+    \label{fig:SchemStrSens}
+\end{figure}
 
 \subsection{Polyurethane}
 
@@ -26,12 +30,11 @@ Polyurethanes (PUR) are biocompatible and biostable polymers, with urethane as t
 On one hand, they're moldable and have favourable tensile and fatigue properties, all of which makes them a suitable choice of material for the development of most complex biomedical devices. \cite{Pinchuk}
 Until now, PUR has been extensively studied in the context of small vascular shunts and cardiac assist devices, where the thromboresistant property of the PUR fit formidable. Under most physiologic conditions, PUR are degradation resistant and can handle stresses very well \cite{Ulery}.
 
-However, PUR, is not electrically conductive. This makes it impossible to introduce electrical functionalities without further processing of PUR, like coating or introducing charged side-groups. \myworries{Find Reference of Paper where charges have been introduced.}
+However, PUR, is not electrically conductive. This makes it impossible to introduce electrical functionalities without further processing of PUR, like coating or introducing components with charged side-groups.\cite{Zhu} 
 
 \subsection{Gold Salt}
 \label{subsec:GoldSalt}
 
-\myworries{Mention that gold NP's change color depending on size. Due to plasmonics interactions in matter.}
 When evaluating, which conductive material to use, noble metals seem to
 host quite some promising candidates. The two main properties we wanted to
 base our decision on were specific conductivity and biocompatibility.
@@ -48,6 +51,8 @@ relevant size range for this work. \cite{Liu, Shukla}
 Due to practical reasons, we had an interest in increasing the efficiency. \myworries{Rephrase/Elaborate} This is typically done by minimising the amount of substance that is wasted in non-targeted interactions. Gold in bulk is highly inert and therefore difficult to incorporate in a directed chemical approach, whereas the ionic form is a well studied agent in Redox-reactions (i.e.the method that was chosen in this work). The increase in efficiency can be achieved using a spatially selective approach, where gold salt located only in and on the fiber is reduced to become solid gold.
 
 Gold(III) chloride trihydrate was therefore the oxidation agent of choice. \myworries{Check out other gold salts. Maybe this salt has highest potential, therefore easier to be reduced.}
+
+\cite{Plasmon, Daniel}
 
 \subsection{Reduction agent}
 \label{subsec:RedAgent}
