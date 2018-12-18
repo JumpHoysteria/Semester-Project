@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.12.16)  17 DEC 2018 22:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.12.16)  18 DEC 2018 23:38
 entering extended mode
 **./main.tex
 (main.tex
@@ -1153,95 +1153,77 @@ ti-fied re-duc-tion agents, the reagent
  []
 
 
-Overfull \hbox (6.83293pt too wide) in paragraph at lines 31--32
+Overfull \hbox (6.83293pt too wide) in paragraph at lines 32--33
 \OT1/cmr/m/n/12 Define Ex-per-i-ment. We iden-ti-fied 5 in-de-pen-dent vari-abl
 es that can be changed. 
  []
 
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 36.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 37.
 ("C:\Users\Alex\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 36.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 37.
 
-Underfull \hbox (badness 10000) in paragraph at lines 40--41
+Underfull \hbox (badness 10000) in paragraph at lines 41--42
 []\OT1/cmr/m/n/12 Reduction agent im-mer-sion
  []
 
 
-Overfull \hbox (3.91258pt too wide) in paragraph at lines 52--53
-[]\OT1/cmr/m/n/12 Define con-cise nam-ing con-cept, which al-lows ev-ery sam-pl
-e to be uniquely
- []
+Underfull \hbox (badness 10000) in paragraph at lines 67--68
 
-
-Overfull \hbox (7.77815pt too wide) in paragraph at lines 56--57
-[]\OT1/cmr/m/n/12 Put 0.75ml of Gold So-lu-tion with \OT1/cmr/m/it/12 c$[]$ \OT
-1/cmr/m/n/12 in small, op-ti-mally non-translucent
  []
 
 [9]
-Underfull \hbox (badness 10000) in paragraph at lines 71--72
-
- []
-
-
-Overfull \hbox (7.77815pt too wide) in paragraph at lines 80--81
-[]\OT1/cmr/m/n/12 Put 0.75ml of Gold So-lu-tion with \OT1/cmr/m/it/12 c$[]$ \OT
-1/cmr/m/n/12 in small, op-ti-mally non-translucent
- []
-
-[10]
-<./pic/MethodsResMeasurement.PNG, id=292, 604.05675pt x 383.63326pt>
+<./pic/MethodsResMeasurement.PNG, id=277, 604.05675pt x 383.63326pt>
 File: ./pic/MethodsResMeasurement.PNG Graphic file (type png)
 <use ./pic/MethodsResMeasurement.PNG>
-Package pdftex.def Info: ./pic/MethodsResMeasurement.PNG  used on input line 13
-0.
+Package pdftex.def Info: ./pic/MethodsResMeasurement.PNG  used on input line 12
+3.
 (pdftex.def)             Requested size: 422.83685pt x 268.54144pt.
- [11]) (Results_Discussion.tex [12 <./pic/MethodsResMeasurement.PNG>]
+ [10]) (Results_Discussion.tex [11 <./pic/MethodsResMeasurement.PNG>]
+<./pic/tRedVR0.jpg, id=304, 1927.2pt x 939.51pt>
+File: ./pic/tRedVR0.jpg Graphic file (type jpg)
+<use ./pic/tRedVR0.jpg>
+Package pdftex.def Info: ./pic/tRedVR0.jpg  used on input line 48.
+(pdftex.def)             Requested size: 467.99881pt x 228.13911pt.
 
-LaTeX Warning: Reference `unknown-marker' on page 13 undefined on input line 20
+[12]
+
+LaTeX Warning: Reference `unknown-marker' on page 13 undefined on input line 55
+.
+
+[13 <./pic/tRedVR0.jpg>]
+
+LaTeX Warning: Reference `unknown-marker' on page 14 undefined on input line 84
+.
+
+[14]
+
+LaTeX Warning: Reference `unknown-marker' on page 15 undefined on input line 86
 .
 
 
-LaTeX Warning: Reference `unknown-marker' on page 13 undefined on input line 30
-.
-
-
-LaTeX Warning: Reference `unknown-marker' on page 13 undefined on input line 30
-.
-
-[13] [14]
-
-LaTeX Warning: Reference `unknown-marker' on page 15 undefined on input line 49
-.
-
-
-LaTeX Warning: Reference `unknown-marker' on page 15 undefined on input line 51
-.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 58--59
+Underfull \hbox (badness 10000) in paragraph at lines 93--94
 
  []
 
 [15]
-<./pic/R0vGoldConc.PNG, id=347, 698.61pt x 208.3785pt>
+<./pic/R0vGoldConc.PNG, id=345, 698.61pt x 208.3785pt>
 File: ./pic/R0vGoldConc.PNG Graphic file (type png)
 <use ./pic/R0vGoldConc.PNG>
-Package pdftex.def Info: ./pic/R0vGoldConc.PNG  used on input line 84.
+Package pdftex.def Info: ./pic/R0vGoldConc.PNG  used on input line 119.
 (pdftex.def)             Requested size: 489.02367pt x 145.86394pt.
  [16]
-<./pic/StrainVAscAcidConc_2.PNG, id=354, 902.1705pt x 261.3765pt>
+<./pic/StrainVAscAcidConc_2.PNG, id=352, 902.1705pt x 261.3765pt>
 File: ./pic/StrainVAscAcidConc_2.PNG Graphic file (type png)
 <use ./pic/StrainVAscAcidConc_2.PNG>
-Package pdftex.def Info: ./pic/StrainVAscAcidConc_2.PNG  used on input line 96.
-
+Package pdftex.def Info: ./pic/StrainVAscAcidConc_2.PNG  used on input line 131
+.
 (pdftex.def)             Requested size: 451.08415pt x 130.68791pt.
  [17 <./pic/R0vGoldConc.PNG>]) (Outlook.tex) [18 <./pic/StrainVAscAcidConc_2.PN
 G>] (appendices.tex
-<./pic/Meas_Prep_Together.PNG, id=369, 436.63126pt x 381.22424pt>
+<./pic/Meas_Prep_Together.PNG, id=367, 436.63126pt x 381.22424pt>
 File: ./pic/Meas_Prep_Together.PNG Graphic file (type png)
 <use ./pic/Meas_Prep_Together.PNG>
 Package pdftex.def Info: ./pic/Meas_Prep_Together.PNG  used on input line 13.
@@ -1282,13 +1264,13 @@ Overfull \hbox (7.77815pt too wide) in paragraph at lines 73--74
  []
 
 ) [21] (main.bbl [22]
-Underfull \hbox (badness 6893) in paragraph at lines 108--113
+Underfull \hbox (badness 6893) in paragraph at lines 113--118
 []\OT1/cmr/m/sc/12 Pinchuk, L.  \OT1/cmr/m/n/12 A re-view of the biosta-bil-ity
  and car-cino-
  []
 
 
-Underfull \hbox (badness 3148) in paragraph at lines 108--113
+Underfull \hbox (badness 3148) in paragraph at lines 113--118
 \OT1/cmr/m/n/12 genic-ity of polyurethanes in medicine and the new gen-er-a-tio
 n
  []
@@ -1299,28 +1281,22 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 111.
  (main.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 111.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 111.
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: 1B229976C54F8735848916C5838C1442;1679.
 
-
-Package rerunfilecheck Warning: File `main.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: E409181D6C7258DB001E2C12D9165B2B;1680
-(rerunfilecheck)             After:  C19F6DD1FFDC0D4D25A6AEDAAA1C99D7;1679.
 
 LaTeX Warning: There were undefined references.
 
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 111.
  ) 
 Here is how much of TeX's memory you used:
- 30360 strings out of 492970
- 583764 string characters out of 3127037
- 678661 words of memory out of 3000000
- 33670 multiletter control sequences out of 15000+200000
+ 30365 strings out of 492970
+ 583915 string characters out of 3127037
+ 681836 words of memory out of 3000000
+ 33679 multiletter control sequences out of 15000+200000
  541805 words of font info for 56 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,11n,83p,1331b,912s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 62i,24n,83p,1316b,912s stack positions out of 5000i,500n,10000p,200000b,50000s
 pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exi
 st, replaced by a fixed one
 
@@ -1341,9 +1317,9 @@ rams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/Alex/AppData
 /Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/
 Alex/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti8.pfb
 >
-Output written on main.pdf (25 pages, 1563294 bytes).
+Output written on main.pdf (25 pages, 1647832 bytes).
 PDF statistics:
- 488 PDF objects out of 1000 (max. 8388607)
- 134 named destinations out of 1000 (max. 500000)
- 352 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 485 PDF objects out of 1000 (max. 8388607)
+ 128 named destinations out of 1000 (max. 500000)
+ 357 words of extra memory for PDF output out of 10000 (max. 10000000)
 
