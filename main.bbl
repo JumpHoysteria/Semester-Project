@@ -5,6 +5,11 @@
 \newblock {\em Atkins' physical chemistry}.
 \newblock Oxford university press, 2018.
 
+\bibitem{Buzea}
+{\sc Buzea, C., Pacheco, I.~I., and Robbie, K.}
+\newblock Nanomaterials and nanoparticles: sources and toxicity.
+\newblock {\em Biointerphases 2}, 4 (2007), MR17--MR71.
+
 \bibitem{Cherenack}
 {\sc Cherenack, K., Zysset, C., Kinkeldei, T., M{\"u}nzenrieder, N., and
   Tr{\"o}ster, G.}
@@ -12,12 +17,20 @@
   textiles.
 \newblock {\em Advanced materials 22}, 45 (2010), 5178--5182.
 
-\bibitem{Daniel}
-{\sc Daniel, M.-C., and Astruc, D.}
-\newblock Gold nanoparticles: assembly, supramolecular chemistry,
-  quantum-size-related properties, and applications toward biology, catalysis,
-  and nanotechnology.
-\newblock {\em Chemical reviews 104}, 1 (2004), 293--346.
+\bibitem{Connor}
+{\sc Connor, E.~E., Mwamuka, J., Gole, A., Murphy, C.~J., and Wyatt, M.~D.}
+\newblock Gold nanoparticles are taken up by human cells but do not cause acute
+  cytotoxicity.
+\newblock {\em Small 1}, 3 (2005), 325--327.
+
+\bibitem{DiBiase}
+{\sc Di~Biase, L., Natale, A., Barrett, C., Tan, C., Elayi, C.~S., Ching,
+  C.~K., Wang, P., AL-AHMAD, A., Arruda, M., Burkhardt, J.~D., et~al.}
+\newblock Relationship between catheter forces, lesion
+  characteristics,“popping,” and char formation: experience with robotic
+  navigation system.
+\newblock {\em Journal of cardiovascular electrophysiology 20}, 4 (2009),
+  436--440.
 
 \bibitem{MedicalAI}
 {\sc Dolgin, E.}
@@ -78,13 +91,6 @@
   silver nitrate with hydroxylamine hydrochloride.
 \newblock {\em The Journal of Physical Chemistry B 107}, 24 (2003), 5723--5727.
 
-\bibitem{Liu}
-{\sc Liu, K., Zheng, Y., Lu, X., Thai, T., Lee, N.~A., Bach, U., and Gooding,
-  J.~J.}
-\newblock Biocompatible gold nanorods: One-step surface functionalization,
-  highly colloidal stability, and low cytotoxicity.
-\newblock {\em Langmuir 31}, 17 (2015), 4973--4980.
-
 \bibitem{NaBH4UsedForGoldNP}
 {\sc Low, A., and Bansal, V.}
 \newblock A visual tutorial on the synthesis of gold nanoparticles.
@@ -99,6 +105,18 @@
 {\sc Mer, V. K.~L.}
 \newblock Nucleation in phase transitions.
 \newblock {\em Industrial \& Engineering Chemistry 44}, 6 (1952), 1270--1277.
+
+\bibitem{Nguyen}
+{\sc Nguyen, D.~T., Kim, D.-J., So, M.~G., and Kim, K.-S.}
+\newblock Experimental measurements of gold nanoparticle nucleation and growth
+  by citrate reduction of haucl4.
+\newblock {\em Advanced Powder Technology 21}, 2 (2010), 111--118.
+
+\bibitem{El-Say}
+{\sc Nikoobakht, B., and El-Sayed, M.~A.}
+\newblock Preparation and growth mechanism of gold nanorods (nrs) using
+  seed-mediated growth method.
+\newblock {\em Chemistry of Materials 15}, 10 (2003), 1957--1962.
 
 \bibitem{EpicardialMesh}
 {\sc Park, J., Choi, S., Janardhan, A.~H., Lee, S.-Y., Raut, S., Soares, J.,
@@ -116,6 +134,21 @@
 \newblock {\em Journal of Biomaterials Science, Polymer Edition 6}, 3 (1995),
   225--267.
 
+\bibitem{Satis}
+{\sc Satishkumar, B., Vogl, E.~M., Govindaraj, A., and Rao, C.}
+\newblock The decoration of carbon nanotubes by metal nanoparticles.
+\newblock {\em Journal of physics D: Applied physics 29}, 12 (1996), 3173.
+
+\bibitem{Principles}
+{\sc Serway, R.~A., and Jewett, J.~W.}
+\newblock {\em Principles of physics}, vol.~1.
+\newblock Saunders College Pub. Fort Worth, TX, 1998.
+
+\bibitem{Shante}
+{\sc Shante, V.~K., and Kirkpatrick, S.}
+\newblock An introduction to percolation theory.
+\newblock {\em Advances in Physics 20}, 85 (1971), 325--357.
+
 \bibitem{Shukla}
 {\sc Shukla, R., Bansal, V., Chaudhary, M., Basu, A., Bhonde, R.~R., and
   Sastry, M.}
@@ -123,16 +156,24 @@
   inside the cellular compartment: a microscopic overview.
 \newblock {\em Langmuir 21}, 23 (2005), 10644--10654.
 
+\bibitem{Turkevich}
+{\sc Turkevich, J., Stevenson, P.~C., and Hillier, J.}
+\newblock A study of the nucleation and growth processes in the synthesis of
+  colloidal gold.
+\newblock {\em Discussions of the Faraday Society 11\/} (1951), 55--75.
+
 \bibitem{Ulery}
 {\sc Ulery, B.~D., Nair, L.~S., and Laurencin, C.~T.}
 \newblock Biomedical applications of biodegradable polymers.
 \newblock {\em Journal of polymer science Part B: polymer physics 49}, 12
   (2011), 832--864.
 
-\bibitem{Plasmon}
-{\sc Zheng, J., Zhang, C., and Dickson, R.~M.}
-\newblock Highly fluorescent, water-soluble, size-tunable gold quantum dots.
-\newblock {\em Physical Review Letters 93}, 7 (2004), 077402.
+\bibitem{Wei}
+{\sc Wei, T., Luo, G., Fan, Z., Zheng, C., Yan, J., Yao, C., Li, W., and Zhang,
+  C.}
+\newblock Preparation of graphene nanosheet/polymer composites using in situ
+  reduction--extractive dispersion.
+\newblock {\em Carbon 47}, 9 (2009), 2296--2299.
 
 \bibitem{Zhu}
 {\sc Zhu, Y., and Sun, Y.}

@@ -2,5 +2,6 @@ This is BibTeX, Version 0.99dThe top-level auxiliary file: main.aux
 The style file: acm.bst
 Database file #1: bibfile.bib
 Warning--entry type for "MedicalAI" isn't style-file defined
---line 66 of file bibfile.bib
-(There was 1 warning)
+--line 203 of file bibfile.bib
+Warning--I didn't find a database entry for "Guruthan"
+(There were 2 warnings)
